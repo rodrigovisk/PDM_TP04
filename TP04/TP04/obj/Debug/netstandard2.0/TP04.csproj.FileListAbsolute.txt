@@ -1,0 +1,15 @@
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.deps.json
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.dll
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csprojAssemblyReference.cache
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfoInputs.cache
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.AssemblyInfo.cs
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\bin\Debug\netstandard2.0\ref\TP04.dll
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\bin\Debug\netstandard2.0\TP04.pdb
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\View\NovoAlunoView.xaml.g.cs
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.csproj.CoreCompileInputs.cache
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.dll
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\ref\TP04.dll
+D:\Estudos\IFSP\6-Sem\PDM\PDM_TP04\TP04\TP04\obj\Debug\netstandard2.0\TP04.pdb
